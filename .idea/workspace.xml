@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44a46a72-65fd-41c2-a9f9-f1e664463c6d" name="Changes" comment="My first commit 05/10/2022">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_011.java" afterDir="false" />
+    <list default="true" id="44a46a72-65fd-41c2-a9f9-f1e664463c6d" name="Changes" comment="commit 05/12/2022">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_014_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_015_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_017.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,23 +29,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28ykBYJ7JSwOisqdWzcJx0CKrhM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/sonal/IdeaProjects/javaexperts",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sonal/IdeaProjects/javaexperts&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.lbp_010">
-    <configuration name="HackerRank.lbp_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_007" />
+}</component>
+  <component name="RunManager" selected="Application.lbp_017">
+    <configuration name="lbp_014_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_014_2" />
       <module name="LBP9_DST" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerRank.lbp_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_008" />
+    <configuration name="lbp_015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_015" />
       <module name="LBP9_DST" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lbp_009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_009" />
+    <configuration name="lbp_015_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_015_2" />
       <module name="LBP9_DST" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lbp_010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_010" />
+    <configuration name="lbp_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_016" />
       <module name="LBP9_DST" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lbp_011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_011" />
+    <configuration name="lbp_017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_017" />
       <module name="LBP9_DST" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lbp_010" />
-        <item itemvalue="Application.lbp_009" />
-        <item itemvalue="Application.lbp_011" />
-        <item itemvalue="Application.HackerRank.lbp_007" />
-        <item itemvalue="Application.HackerRank.lbp_008" />
+        <item itemvalue="Application.lbp_017" />
+        <item itemvalue="Application.lbp_016" />
+        <item itemvalue="Application.lbp_015_2" />
+        <item itemvalue="Application.lbp_015" />
+        <item itemvalue="Application.lbp_014_2" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +137,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652197215489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 05/12/2022">
+      <created>1652369418820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652369418820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 05/12/2022">
+      <created>1652369508715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652369508715</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 05/12/2022">
+      <created>1652369786524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652369786524</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 05/12/2022">
+      <created>1652370360887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652370360887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +181,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first commit 05/10/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first commit 05/10/2022" />
+    <MESSAGE value="commit 05/12/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 05/12/2022" />
   </component>
 </project>
