@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44a46a72-65fd-41c2-a9f9-f1e664463c6d" name="Changes" comment="commit 05/19/2022">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_017_2.java" afterDir="false" />
+    <list default="true" id="44a46a72-65fd-41c2-a9f9-f1e664463c6d" name="Changes" comment="commit 05/19/2022-2">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/lbp_019_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,46 +42,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lbp_017_2">
-    <configuration name="lbp_015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_015" />
-      <module name="LBP9_DST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lbp_015_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_015_2" />
-      <module name="LBP9_DST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lbp_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_016" />
-      <module name="LBP9_DST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lbp_019_2">
     <configuration name="lbp_017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_017" />
       <module name="LBP9_DST" />
@@ -106,13 +69,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lbp_018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_018" />
+      <module name="LBP9_DST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lbp_019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_019" />
+      <module name="LBP9_DST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lbp_019_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.lbp_019_2" />
+      <module name="LBP9_DST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lbp_019_2" />
+        <item itemvalue="Application.lbp_019" />
+        <item itemvalue="Application.lbp_018" />
         <item itemvalue="Application.lbp_017_2" />
         <item itemvalue="Application.lbp_017" />
-        <item itemvalue="Application.lbp_016" />
-        <item itemvalue="Application.lbp_015_2" />
-        <item itemvalue="Application.lbp_015" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652978563471</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit 05/19/2022-2">
+      <created>1652979823276</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652979823276</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +201,7 @@
     <MESSAGE value="My first commit 05/10/2022" />
     <MESSAGE value="commit 05/12/2022" />
     <MESSAGE value="commit 05/19/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 05/19/2022" />
+    <MESSAGE value="commit 05/19/2022-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 05/19/2022-2" />
   </component>
 </project>
